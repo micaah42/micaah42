@@ -1,3 +1,1 @@
-Drink beer and have fun
-
-*Cheers!*
+less code, less bugs.
