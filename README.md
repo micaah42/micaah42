@@ -1,3 +1,2 @@
-less code, less bugs.
-
-Let's do it anyways 🚀
+*less code, less bugs.*<br>
+**- let's do it anyway 🚀**
